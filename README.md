@@ -42,12 +42,4 @@ What amount would you like to deposit?
 Deposit with the value: 100.0 completed!
 Your current balance is: 100.0
 
-🎯 Próximos Passos:
-[ ] Histórico de transações (com ArrayList)
 
-[ ] Tratamento de entradas inválidas com exceções
-
-[ ] Suporte a mais de um cliente no menu
-
-👨‍💻 Autor
-Feito por David Dos Santos como projeto de estudo.
