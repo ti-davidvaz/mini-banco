@@ -45,6 +45,7 @@ Your current balance is: 100.0
 
 ```
 🎯 Próximos Passos:
+
 [ ] Histórico de transações (com ArrayList)
 
 [ ] Tratamento de entradas inválidas com exceções
