@@ -30,6 +30,7 @@ Projeto de estudo em Java desenvolvido para praticar orientação a objetos: abs
 
 ## 💻 Exemplo de Uso
 
+
 ```text
 Which transaction would you like to perform?
 1 - Show balance
@@ -41,5 +42,17 @@ What amount would you like to deposit?
 100
 Deposit with the value: 100.0 completed!
 Your current balance is: 100.0
+
+```
+🎯 Próximos Passos:
+[ ] Histórico de transações (com ArrayList)
+
+[ ] Tratamento de entradas inválidas com exceções
+
+[ ] Suporte a mais de um cliente no menu
+
+👨‍💻 Autor
+Feito por David Dos Santos como projeto de estudo.
+
 
 
